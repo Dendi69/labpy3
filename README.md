@@ -22,5 +22,17 @@ Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
 Hasil Output nya >>>>>>>>>
 
 
+![latihan2b](https://user-images.githubusercontent.com/46511665/52991389-17e55400-343f-11e9-91d7-0cd9ed58cf21.png)
+
+
+
+Ketiga Kita Bahas Alur Algoritma Program "Program1.py"
+
+
+
+
+Hasil Output nya >>>>>>>>>
+
+
 
 
