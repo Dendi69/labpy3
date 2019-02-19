@@ -8,5 +8,19 @@ Pertama Kita Bahas Alur Algoritma Program "Latihan1.py"
 
 Hasil Output nya >>>>>>>>>
 
-alt teks
+![latihan1b](https://user-images.githubusercontent.com/46511665/52991098-c8eaef00-343d-11e9-9f21-343c87f9f5ce.png)
+
+
+
+
+Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
+
+
+
+
+
+Hasil Output nya >>>>>>>>>
+
+
+
 
