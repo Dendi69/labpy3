@@ -28,11 +28,11 @@ Hasil Output nya >>>>>>>>>
 
 Ketiga Kita Bahas Alur Algoritma Program "Program1.py"
 
-
+![latihan3a](https://user-images.githubusercontent.com/46511665/52991701-57607000-3440-11e9-809e-4d7243f47803.png)
 
 
 Hasil Output nya >>>>>>>>>
 
-
+![latihan3b](https://user-images.githubusercontent.com/46511665/52991704-59c2ca00-3440-11e9-8d54-7f9ec0a5dfbf.png)
 
 
