@@ -16,7 +16,7 @@ Hasil Output nya >>>>>>>>>
 Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
 
 
-
+![latihan2a](https://user-images.githubusercontent.com/46511665/52991387-161b9080-343f-11e9-8619-7af8b6441a5b.png)
 
 
 Hasil Output nya >>>>>>>>>
